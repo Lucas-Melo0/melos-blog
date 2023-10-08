@@ -1,6 +1,6 @@
 ---
 title: "3 Things you should stop doing in JavaScript"
-date: 2022-07-12T17:13:14-03:00
+date: 2022-07-12T17:13:15-03:00
 draft: false 
 ---
 
