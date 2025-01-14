@@ -5,7 +5,7 @@ draft: false
 ---
 When learning React its normal to focus on the more pressing topics like components and rendering those components so its not unusual that when pushing something for production you might set aside somethings that at the time you felt that were not so important for your application. That being said in this article I’m gonna talk about three React “Hidden” tips and when you should use them.
 
-Key prop
+1. Key prop
 I’m sure that at some point in time when you we’re building an app and opened your console you received the warning below
 
 Warning: Each child in a list should have a unique key prop.
